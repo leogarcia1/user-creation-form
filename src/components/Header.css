@@ -1,0 +1,41 @@
+div.header {
+    width: 100%;
+    height: 100px;
+    background-color: #300d38;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+img.logo {
+    width: 100px;
+    height: 100px;
+}
+  
+span.title {
+    color: #ff9900;
+    font-family: 'Lato', sans-serif;
+    font-size: 30px;
+}
+
+span.subtitle {
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-size: 30px;
+}
+
+div.info-container {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    padding-right: 20px;
+}
+
+a {
+    color: #FFF;
+  }
+  a:hover {
+     color: #ff9900;
+  }
