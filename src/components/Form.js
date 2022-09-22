@@ -35,8 +35,7 @@ export default function Form() {
     // if form is complete 
     else {
         // POST request sent to endpoint
-        axios
-            .post(baseURL, {
+        axios.post(baseURL, {
                 name: name,
                 email: email,
                 password: password,
