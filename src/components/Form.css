@@ -22,3 +22,20 @@ input.textbox {
 .dropdown-list {
     width: 200px;
 }
+
+button {
+    background-color: purple;
+    color: white;
+    font-size: 20px;
+    padding: 10px 60px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+}
+
+button:hover {background-color: #300d38}
+
+button:active {
+  background-color: #300d38;
+  transform: translateY(4px);
+}
