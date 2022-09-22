@@ -6,12 +6,8 @@ React - Javascript, HTML, and CSS
 
 ###############################################################################
 
-### `git clone git@github.com:leogarcia1/Leordle.git`
-
 In the project directory, you can run:
 
-### `npm install`
-then
 ### `npm start`
 
 Runs the app in the development mode.
