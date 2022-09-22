@@ -1,5 +1,5 @@
 div.form-container {
-    height: 400px;
+    height: 600px;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
@@ -8,8 +8,9 @@ div.form-container {
 
 div.input-container {
     display: flex;
+    flex-direction: column;
     align-items: center;
-    gap: 20px;
+    gap: 5px;
 }
 
 input.textbox {
