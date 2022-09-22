@@ -1,10 +1,12 @@
 User Creation Form
 
+Instructions: https://fetch-hiring.s3.amazonaws.com/frontend.html
+
 React - Javascript, HTML, and CSS
 
 ###############################################################################
 
-git clone git@github.com:leogarcia1/Leordle.git
+### `git clone git@github.com:leogarcia1/Leordle.git`
 
 In the project directory, you can run:
 
